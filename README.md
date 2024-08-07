@@ -11,7 +11,7 @@ This Pokémon Application is built using Kotlin and Jetpack Compose. It utilizes
 - Pokémon List Screen
 - Pokémon Detail Screen
 - Changing the App Icon
-- Dependencies]
+- Dependencies
 - Screenshots
 - Videos
 - APK Link
