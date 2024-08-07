@@ -2,7 +2,11 @@
 
 ## Overview
 
-This Pokémon Application is built using Kotlin and Jetpack Compose. It utilizes the [PokéAPI](https://pokeapi.co/) to fetch data about various Pokémon and displays it in a user-friendly interface. The app features two main screens: the Pokémon List Screen and the Pokémon Detail Screen.
+This Pokémon Application is built using Kotlin and Jetpack Compose. It utilizes the PokéAPI to fetch data about various Pokémon and displays it in a user-friendly interface. The app features two main screens: the Pokémon List Screen and the Pokémon Detail Screen.
+ * Pokémon List Screen: Displays a scrollable list of Pokémon with basic information. Users can browse the list and select a Pokémon to view more details.
+ * Pokémon Detail Screen: Offers in-depth information about a selected Pokémon, including its height, weight, types, and images.
+
+The app follows the MVVM (Model-View-ViewModel) architecture, ensuring a clean separation of concerns and efficient data management. The user interface is built using Jetpack Compose for a modern and responsive design.
 
 
 ## Table of Contents
